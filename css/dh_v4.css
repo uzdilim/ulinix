@@ -54,10 +54,10 @@
 	float: right;
 	margin: 0.20833rem 0;
 	width: 33%;
-	height: 3.33333rem;
-	line-height: 3.41667rem;
+	height: 3rem;
+	line-height: 3.1rem;
 	overflow: hidden;
-	font-size: 1.3rem
+	font-size: 1.25rem
 }
 
 .m-listA li a {
@@ -72,11 +72,11 @@
 
 .m-listA li a img {
 	vertical-align: -5px;
-	margin: 0 0.33333rem 0 0.25rem;
+	margin: 0 0.25rem 0 0.25rem;
 	width: 1.66667rem;
 	height: 1.66667rem;
-	padding-left: 0.4127rem;
-	padding-right: 0.33333rem
+	padding-left: 0.4rem;
+	padding-right: 0.3rem
 }
 
 .m-listA li:nth-child(4n) {
