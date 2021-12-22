@@ -79,14 +79,7 @@
 	padding-right: 0.3rem
 }
 
-.m-listA li:nth-child(4n) {
-	width: 19%
-}
 
-.m-listA li:nth-child(4n) a {
-	display: inline-block;
-	padding-right: 0.33333rem
-}
 
 .m-listD {
 	font-size: 1.25rem;
